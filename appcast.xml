@@ -5,15 +5,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Victor-pv</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Tue, 06 Oct 2026 06:50:20 +1300</pubDate>
-            <sparkle:version>60</sparkle:version>
+            <pubDate>Tue, 06 Oct 2026 07:53:38 +1300</pubDate>
+            <sparkle:version>61</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/brucysNZ/photovault-releases/releases/download/downloads/Victor-pv-0.1.0-60.dmg" length="507767318" type="application/octet-stream" sparkle:edSignature="FfZ3pegQgNQ6tJF91QNhCt4JK3K9kf/S3xrXxoecTdBo6StG7ZbohFvaB8bkAMVZB9KDxbkey7Ny5akY55u7Bw=="></enclosure>
+            <enclosure url="https://github.com/brucysNZ/photovault-releases/releases/download/downloads/Victor-pv-0.1.0-61.dmg" length="507755724" type="application/octet-stream" sparkle:edSignature="Yv9kV6orM1bVjLxG/L2O308gJc0EX7t9DB1UUsgJNNmBFIemH6l1HaPdYlrWXLBbqTEoO7Ci39APsBJXEkNdDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: QrEeoB/mCemdEj74ji7FZ+0H3iVdhimtx91DabUFKS/bYaVxZsqz4sfekeW2E1XOdA4PbKOgnLQcybiVGdV/Dg==
+edSignature: Mbfvzq2DUj2aHs3q9pVelx7EjSNzDRVfMBF1HUKRkg6NAOqeCOKhOHMZgyS1HrzPV4Crug6xCF0I5Y4AolOgAg==
 length: 1142
 -->
