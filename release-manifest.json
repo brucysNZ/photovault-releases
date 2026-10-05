@@ -1,10 +1,10 @@
 {
-  "build": 34,
+  "build": 60,
   "bundleIdentifier": "me.brucys.victorpv.development",
-  "bytes": 507449471,
+  "bytes": 507767318,
   "channel": "victor-pv-test",
   "databaseRollback": "Restore a verified encrypted backup; binaries never downgrade the library schema in place.",
-  "dmg": "Victor-pv-0.1.0-34.dmg",
+  "dmg": "Victor-pv-0.1.0-60.dmg",
   "models": {
     "CLIP-reference/LICENSE": "987e63b32f6c89ff5160e429458a872ff048e6860b590a3912e938f9da8f14db",
     "CLIP-reference/clip-bpe_simple_vocab_16e6.txt.gz": "924691ac288e54409236115652ad4aa250f48203de50a9e4722a6ecd48d6804a",
@@ -43,7 +43,7 @@
     "publicEdKey": "XOiIDtKEKi6F4TLAeawAhpVQJZdRFgirh2yCMipkB4s="
   },
   "schema": 1,
-  "sha256": "c44b861bd22356a630a8314898651cc6dfae1e678e823c7f48ef8e1b8edc2746",
-  "sourceCommit": "a4bd3af3c836f0b1709dff59d735b6939b45b8bc",
+  "sha256": "a978945cf5a0e773bd08c197d30b7c0a53d9934b52cfca427ae3c48117fe1117",
+  "sourceCommit": "164f6aef132352d6231fe0ff024e755604e031cc",
   "version": "0.1.0"
 }
